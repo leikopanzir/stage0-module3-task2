@@ -10,5 +10,9 @@ public class CopiedNames {
         int bles = 5000;
         int seven = 7000;
         int nine = 90000;
+        int fau = 100000;
+        int myr = 1000000;
+        int myrmyu = 1234567;
+        int myzlo = 1234567;
     }
 }
